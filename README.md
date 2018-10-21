@@ -8,3 +8,4 @@ https://itnext.io/18-tips-for-training-your-own-tensorflow-js-models-in-the-brow
 https://jamesthom.as <br/>
 https://justadudewhohacks.github.io/face-api.js/face_and_landmark_detection <br/>
 https://ml5js.org <br/>
+https://magenta.tensorflow.org/demos#web-apps <br/>
