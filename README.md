@@ -9,6 +9,7 @@ https://jamesthom.as <br/>
 https://justadudewhohacks.github.io/face-api.js/face_and_landmark_detection <br/>
 https://ml5js.org <br/>
 https://magenta.tensorflow.org/demos#web-apps <br/>
-https://aijs.rocks/
-https://trackingjs.com/
-https://tenso.rs/
+https://aijs.rocks/ <br/>
+https://trackingjs.com/ <br/>
+https://tenso.rs/ <br/>
+https://github.com/dmotz/thing-translator
